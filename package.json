@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-tswaters",
+  "version": "0.0.0",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "author": "Tyler Waters <tyler.waters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint-plugin-react": "^7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswaters/eslint-config-tswaters.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tswaters/eslint-config-tswaters/issues"
+  },
+  "homepage": "https://github.com/tswaters/eslint-config-tswaters#readme",
+  "description": ""
+}
